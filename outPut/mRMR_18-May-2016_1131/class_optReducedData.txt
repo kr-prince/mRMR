@@ -1,0 +1,13 @@
+
+****************************************************************
+
+Total Features      : 7
+Number of Samples   : 49
+Distinct Classes    : 2
+Split Ratio         : 0.7
+Naive Bayes         : 100.0
+k-Nearest Neighbour : 80.0
+Support Vector      : 46.667
+Hybrid Classifier   : 80.0
+
+****************************************************************
